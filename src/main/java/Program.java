@@ -8,5 +8,7 @@ public class Program {
         System.out.println("More shit");
         Lwjgl3ApplicationConfiguration q = new Lwjgl3ApplicationConfiguration();
         q.disableAudio(false);
+        halo.susy();
+        halo.susy();halo.susy();halo.susy();halo.susy();halo.susy();halo.susy();halo.susy();
     }
 }
