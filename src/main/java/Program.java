@@ -5,5 +5,6 @@ public class Program {
         System.out.println("Hello, world!");
         Lwjgl3ApplicationConfiguration q = new Lwjgl3ApplicationConfiguration();
         q.disableAudio(false);
+        halo.susy();
     }
 }
