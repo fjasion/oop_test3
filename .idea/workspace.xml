@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce51354-d37e-457f-aed9-3b9b14b6e532" name="Changes" comment="Lwjgl_test">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ce51354-d37e-457f-aed9-3b9b14b6e532" name="Changes" comment="qwerty3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,5 +87,9 @@
     <MESSAGE value="test_commit" />
     <MESSAGE value="Lwjgl_test" />
     <option name="LAST_COMMIT_MESSAGE" value="Lwjgl_test" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
