@@ -10,6 +10,7 @@ public class Program {
         q.disableAudio(false);
         halo.susy();
         halo.susy();halo.susy();halo.susy();halo.susy();halo.susy();halo.susy();halo.susy();
+        System.out.println("Hallo.susy()");
 
         System.out.println("Lol honvex-cool here");
     }
